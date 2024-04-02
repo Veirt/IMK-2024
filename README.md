@@ -16,6 +16,7 @@
 
 - **Storyboard:** This directory contains the storyboard for our website.
 - **Wireframe:** The wireframe directory includes the wireframes for our website. Wireframes are visual guides that represent the skeletal framework of our application, showcasing the layout and functionality.
+- **Presentation:** This directory contains the presentation slides for our project.
 
 ## Credits
 
