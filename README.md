@@ -16,3 +16,8 @@
 
 - **Storyboard:** This directory contains the storyboard for our website.
 - **Wireframe:** The wireframe directory includes the wireframes for our website. Wireframes are visual guides that represent the skeletal framework of our application, showcasing the layout and functionality.
+
+## Credits
+
+- [Website Wireframes UI Kit by UI-UX Expert(Aashifa)](https://www.figma.com/community/file/1212997233512196965). Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+  The wireframes have been modified to suit the specific design requirements of our project.
