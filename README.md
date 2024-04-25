@@ -14,9 +14,11 @@
 
 ## Repository Contents
 
-- **Storyboard:** This directory contains the storyboard for our website.
-- **Wireframe:** The wireframe directory includes the wireframes for our website. Wireframes are visual guides that represent the skeletal framework of our application, showcasing the layout and functionality.
 - **Presentation:** This directory contains the presentation slides for our project.
+- **Site Map:** This directory includes the site map for our website.
+- **Storyboard:** This directory contains the storyboard for our website.
+- **User Flow:** This directory contains the user flow for our website.
+- **Wireframe:** The wireframe directory includes the wireframes for our website. Wireframes are visual guides that represent the skeletal framework of our application, showcasing the layout and functionality.
 
 ## Link
 
