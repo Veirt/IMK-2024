@@ -23,6 +23,8 @@
 ## Link
 
 - [Figma](<https://www.figma.com/file/3zWD0iq6URDQrqPS7YNDVy/Wireframe-()?type=design&node-id=0%3A1&mode=design&t=rcj5aqAca1Hx6kAN-1>)
+- [Presentation](https://www.canva.com/design/DAGBPlgooX4/rO5TEOv0kO7TCgNGlMRXvA/edit?utm_content=DAGBPlgooX4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Storyboard](https://www.canva.com/design/DAGBK1mEGGo/s_dbvj0w00KkLzoSjajBQw/edit?utm_content=DAGBK1mEGGo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Credits
 
